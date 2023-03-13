@@ -3,7 +3,10 @@ Ejercicio de enviar correos con Java Mail
 
 * En este programa se podra enviar un correo desde una aplicación web
 
+<p align="center"><img src="./Img_README/MAIL01.png"/></p> 
 <p align="center"><img src="https://www.webdevelopersnotes.com/wp-content/uploads/create-a-simple-home-page.png"/></p> 
+<p align="center"><img src="https://www.webdevelopersnotes.com/wp-content/uploads/create-a-simple-home-page.png"/></p> 
+
 
 ## Construido con 🛠️
 
