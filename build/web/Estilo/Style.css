@@ -1,0 +1,124 @@
+    x/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 9/05/2022, 06:18:00 PM
+    Author     : karen_b
+*/
+
+*{
+    padding: 0;
+    margin: 0;
+}
+h1{
+   text-align: center;
+   background-color: #CABCB4;
+   color: black;
+   padding: 20px;
+    font-family: Century Gothic;
+    font-size: 350%;
+}
+
+#div{
+    
+     background-color: #CABCB4;
+}
+
+input {
+     background-color: black; 
+      color: black; 
+      border: 4px solid #CABCB4;
+      color: black; /*Color texto */
+      background: transparent; /* Eliminar color de fondo */
+      border: 2px solid #CABCB4; /* Ancho de borde, estilo de línea y color */
+      border-radius: 100px; /* Esquinas redondeadas */
+      padding: 16px 32px;
+      text-align: center;
+      display: inline-block;
+      font-size: 16px;
+      margin: 6px 4px;
+      cursor: pointer;
+}
+
+input:hover{
+    
+    color: #CABCB4;
+  cursor: pointer;
+}
+
+#dos{
+    width:750px;
+    padding:20px;
+    border-radius:10px;
+    margin:auto;
+    background-color: white;
+    border: 4px solid #CABCB4;
+}
+
+#dos:hover{
+     background-color: #EAE5E3;
+  cursor: pointer;
+}
+#dos label {
+  font-family: Century Gothic;
+    font-size: 140%;
+    width:500px;
+	font-weight:bold;
+}
+
+#select{
+    font-family: Century Gothic;
+    font-size: 110%;
+    width: 300px;
+    font-weight:bold;
+     padding:5px;
+}
+
+#dos{
+    font-family: Century Gothic;
+    font-size: 100%
+}
+
+#area{
+    font-family: Century Gothic;
+    font-size: 90%;
+    width:400px;
+    padding:20px;
+    border-radius:10px;
+    margin:auto;
+    background-color: white;
+    border: 3px solid #CABCB4;
+}
+
+#guardar{
+     background-color: black; 
+      color: black; 
+      border: 4px solid #CABCB4;
+      color: black; /*Color texto */
+      background: #CABCB4; /* Eliminar color de fondo */
+      border: 2px solid #CABCB4; /* Ancho de borde, estilo de línea y color */
+      border-radius: 100px; /* Esquinas redondeadas */
+      padding: 16px 32px;
+      text-align: center;
+      display: inline-block;
+      font-size: 16px;
+      margin: 6px 4px;
+      cursor: pointer;
+}
+
+#guardar:hover{
+    
+    color: white;
+  cursor: pointer;
+}
+
+footer{
+    background-color: white;
+     padding: 10px;
+    font-family: Century Gothic;
+    font-size: 90%;
+    text-align: center;
+}
+

@@ -1,0 +1,49 @@
+
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 3/05/2022, 11:48:14 AM
+    Author     : SENA
+*/
+
+body{
+    background-color: rosybrown;
+}
+
+h1{
+    font-family: Century Gothic;
+    font-size: 400%;
+}
+
+h2{
+    font-family:  Century Gothic;
+    color: white;
+}
+
+h3{
+    font-family: Century Gothic;
+    background-color: white;
+    font-size: 150%
+    
+}
+label{
+    font-family: Century Gothic;
+    font-size: 200%
+        
+}
+input{
+      font-size: 150%;
+    border-radius: 10px;
+}
+
+.operaciones:hover{
+  color: gray;
+  cursor: pointer;
+  
+}
+
+
+
